@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Dev/EndlessRunnerDemo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/BP_EndlessRunnerGameMode.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Maps/EndlessRunner_Map.umap",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/BP_EndlessRunnerCharacter.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IMC_EndlessRunnerDefault.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_Move.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_Jump.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_Slide.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerJump.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerSlide.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerMove.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/BP_Floor.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerMoveLeft.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerMoveRight.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/Obstacles/BP_Obstacles.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/Obstacles/BP_Obstacles_Wall.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/Obstacles/BP_Obstacles_Blocker.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/BP_StartingFloor.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/UI/WBP_MainMenu.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Maps/EndlessRunner_Menu.umap",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/UI/MenuGameMode.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/Blueprints/IA_RunnerPause.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/UI/WBP_PauseMenu.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/UI/menuimage.uasset",
+				"E:/Dev/EndlessRunnerDemo/Content/EndlessRunner/UI/WBP_GameOver.uasset"
+			]
+		}
+	]
+}
